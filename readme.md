@@ -15,7 +15,7 @@ I like tinkering with systems and learning new skills.
 
 🎨 I like working in PHP using frameworks like Yii, Zend, and Symfony  
 🤹 I like working in JavaScript, trying to keep up with its many tools.  
-🤓 I am quite nerd, I love stuff like mod-rewrite, regular expressions SQL, and many, many more.
+🤓 I am quite nerd, I love stuff like mod-rewrite, regular expressions, SQL, and many, many more.
 
 🗣️ I am fluent in 🇬🇧 English, 🇮🇹 Italian and 🇪🇸 Spanish, and I am currently learning 🇧🇷 Portuguese
 

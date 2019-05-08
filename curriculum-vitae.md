@@ -19,7 +19,7 @@ I am at the end of a sabbatical year travelling through South America, experienc
 
 #### Mar 2012 - Jul 2018
 
-**Extera, San Marino 🇸🇲**  
+**Extera, San Marino, 🇸🇲**  
 As a Full Stack Web Developer I build corporate websites and e-commerces, and I design, build and document APIs.  
 I analyse and wireframe the UX for a ticketing system, and I build the web app with HTML5, PHP and Javascript.
 
