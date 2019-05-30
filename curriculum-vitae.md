@@ -5,6 +5,16 @@
 I like tinkering with systems and learning new skills.
 
 ---
+##### May 2019 - present day
+**Learning new skills 📖🤔💡**
+I am currently learning Vue.js along CSS Grid and CSS Flexbox. I am working on a small toy project to try my new knowledge.
+
+> TECHNOLOGIES:
+> Vue.js, CSS Grid, CSS Flexbox
+
+
+---
+
 
 ##### July  2018 - May 2019
 **Exploring South America 🇧🇷🇺🇾🇦🇷🇨🇱🇵🇾**  
