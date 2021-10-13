@@ -8,16 +8,17 @@
 
 ### 👨‍💻 Bio
 
-👨‍💻 As you can see in my [resume](curriculum-vitae.md), I am a full stack web developer, I like solving problems and building things.  
-I like tinkering with systems and learning new skills.
+👨‍💻 I am a full stack web developer, I like solving problems and building things. I like tinkering with systems and learning new skills.
+📜 Have a look at my [resume](curriculum-vitae.md).
 
 👨‍🔬 I worked as a Full Stack Web Developer, using PHP and JavaScript. I also did a few UX designs and I worked in a development support team, analysing issues and solving bugs.
 
-🎨 I like working in PHP using frameworks like Yii, Zend, and Symfony  
+🎨 I like working in PHP using frameworks like Yii, Zend, Symfony and Wordpress
+🔣 I build Wordpress sites using Gutenberg editor and custom made blocks.
 🤹 I like working in JavaScript, trying to keep up with its many tools.  
 🤓 I am quite nerd, I love stuff like mod-rewrite, regular expressions, SQL, and many, many more.
 
-🗣️ I am fluent in 🇬🇧 English, 🇮🇹 Italian and 🇪🇸 Spanish, and I am currently learning 🇧🇷 Portuguese
+🗣️ I am fluent in 🇬🇧 English, 🇮🇹 Italian, 🇪🇸 Spanish, and 🇧🇷 Portuguese
 
 ### 🤝 Social
 
@@ -36,7 +37,7 @@ I like tinkering with systems and learning new skills.
 
 🎲 I like boardgames, I own more than I'd like to admit, and I am part of a local association, [ludus in tabula](https://www.facebook.com/ludusintabularimini),  promoting boardgames.
 
-📜 I love paper. I used to run a side project named [cartacampa](http://cartacampa.it/), where I made handmade notebooks, bookbinding the pages and printing the covers with letterpress.
+📜 I love paper. I used to run a side project where I made handmade notebooks, bookbinding the pages and printing the covers with letterpress.
 
 ⛺ I like travelling, I have a small tent and I kept track of all the places I have visited in my last trip (including expenses, distances, and other data)
 
