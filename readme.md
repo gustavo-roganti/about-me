@@ -8,8 +8,9 @@
 
 ### 👨‍💻 Bio
 
-👨‍💻 I am a full stack web developer, I like solving problems and building things. I like tinkering with systems and learning new skills.
-📜 Have a look at my [resume](curriculum-vitae.md).
+👨‍💻 I am a full stack web developer, I like solving problems and building things. Have a look at my [resume](curriculum-vitae.md).  
+🛠️ I like tinkering with systems and learning new skills.  
+🌎 I am a digital nomad, currently stationed in Brazil.
 
 👨‍🔬 I worked as a Full Stack Web Developer, using PHP and JavaScript. I also did a few UX designs and I worked in a development support team, analysing issues and solving bugs.
 
