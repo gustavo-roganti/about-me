@@ -6,11 +6,12 @@ I like tinkering with systems and learning new skills.
 
 ---
 ##### May 2019 - present day
-**Learning new skills 📖🤔💡**
-I am currently learning Vue.js along CSS Grid and CSS Flexbox. I am working on a small toy project to try my new knowledge.
+**Digital Freelancer Nomad, 🌎**  
+I am coding hi-end Wordpress solutions, writing dynamic blocks for the Gutenberg editor, integrating backend APIs, and coding frontend UX interactions. I’m working remotely with my friend Julian, collaborating via GIT and  deploying on AWS via Bitbucket Pipelines.
+
 
 > TECHNOLOGIES:
-> Vue.js, CSS Grid, CSS Flexbox
+> Wordpress, Woocommerce, Gutenberg, Docker, ACF, Swagger, Postman, Bitbucket, Bash, AWS EC2
 
 
 ---
