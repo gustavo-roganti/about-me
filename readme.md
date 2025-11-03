@@ -8,38 +8,48 @@
 
 ### 👨‍💻 Bio
 
-👨‍💻 I am a full stack web developer, I like solving problems and building things. Have a look at my [resume](curriculum-vitae.md).  
-🛠️ I like tinkering with systems and learning new skills.  
-🌎 I am a digital nomad, currently stationed in Brazil.
+👨‍💻 I'm a Senior Fullstack Engineer with 20+ years of experience building and maintaining web applications for international agencies and enterprise clients.  
+🧠 I work across the stack — from PHP and WordPress backends to React and TypeScript frontends — delivering robust, scalable, and maintainable solutions.  
+⚙️ I enjoy understanding systems end-to-end, solving tricky technical issues, and improving performance.  
+🌎 I'm a European citizen based in Brazil, collaborating remotely with teams across the US, UK, and EU.
 
-👨‍🔬 I worked as a Full Stack Web Developer, using PHP and JavaScript. I also did a few UX designs and I worked in a development support team, analysing issues and solving bugs.
+💡 I've worked on both **legacy and modern systems**, from optimizing large-scale WordPress infrastructures to building **headless CMS** projects powered by React, Next.js, and GraphQL.  
+🧰 I’m also comfortable digging into things like caching, redirects, Cloudflare setups, or debugging PHP/JS issues that affect production systems.
 
-🎨 I like working in PHP using frameworks like Yii, Zend, Symfony and Wordpress
-🔣 I build Wordpress sites using Gutenberg editor and custom made blocks.
-🤹 I like working in JavaScript, trying to keep up with its many tools.  
-🤓 I am quite nerd, I love stuff like mod-rewrite, regular expressions, SQL, and many, many more.
+🎨 I love clean architecture and well-structured code. I’ve built custom Gutenberg blocks, REST and GraphQL integrations, and reusable component libraries with React and Tailwind CSS.  
+🤓 I’m also a bit of a nerd for regex, SQL optimization, and debugging tools — I like understanding *why* things break as much as fixing them.
 
-🗣️ I am fluent in 🇬🇧 English, 🇮🇹 Italian, 🇪🇸 Spanish, and 🇧🇷 Portuguese
+🗣️ I speak 🇬🇧 English, 🇮🇹 Italian, 🇪🇸 Spanish, and 🇧🇷 Portuguese fluently.
+
+
+---
 
 ### 🤝 Social
 
-- 📧 [Email gustavo.roganti@gmail.com](mailto:gustavo.roganti@gmail.com)
-- 👔 [Linkedin gustavo-roganti](https://linkedin.com/in/gustavo-roganti)
-- :octocat: [GitHub gustavo-roganti](https://github.com/gustavo-roganti)
+- 📧 [Email: gustavo.roganti@gmail.com](mailto:gustavo.roganti@gmail.com)
+- 👔 [LinkedIn: gustavo-roganti](https://linkedin.com/in/gustavo-roganti)
+- 🐙 [GitHub: gustavo-roganti](https://github.com/gustavo-roganti)
 
+---
 
-### 👔 Working Experience
+### 👔 Work & Projects
 
-👨‍💻 I worked for several web agencies in Europe, analyzing the client challenges and proposing and implementing solutions to their needs. You can have a look at my [Resume](curriculum-vitae.md).
+👨‍💻 Over the years, I’ve worked with agencies across Europe, the US, and Latin America — delivering full-stack projects, improving legacy systems, and providing technical support for enterprise WordPress setups.  
+You can see more on my [Resume](curriculum-vitae.md).
 
-⛴️ I am quite proud of the [Amatori.com](https://amatori.com) project, a web ticketing service. See the [ project details](projects/amatori.md).
+🚀 Some highlights:
+- **Third and Grove** – Maintained and launched enterprise headless WordPress sites with React, TypeScript, and GraphQL.
+- **Extera** – Built corporate websites and booking platforms using PHP frameworks and WordPress.
+- **Groupalia & others** – Scaled and optimized large PHP/MySQL applications for high-traffic environments.
+
+⛴️ I’m especially proud of the [Amatori.com](https://amatori.com) ticketing project, where I handled full-stack development and API integrations.  
+See more in [project details](projects/amatori.md).
+
+---
 
 ### 🔥 Hobbies
 
-🎲 I like boardgames, I own more than I'd like to admit, and I am part of a local association, [ludus in tabula](https://www.facebook.com/ludusintabularimini),  promoting boardgames.
-
-📜 I love paper. I used to run a side project where I made handmade notebooks, bookbinding the pages and printing the covers with letterpress.
-
-⛺ I like travelling, I have a small tent and I kept track of all the places I have visited in my last trip (including expenses, distances, and other data)
-
-📷 I like photography, I have a Fuji mirrorles and a few lenses. I started with a Lomo FishEye 10 years ago. I like taking pictures of abandoned places, among other things.
+🎲 Boardgames enthusiast.  
+📜 I love handmade notebooks and traditional printing (letterpress, bookbinding).  
+⛺ I enjoy road trips and tracking every place I visit — including distance and expenses (I’m a data nerd even on vacation).  
+📷 Photography lover, currently shooting with a Fuji mirrorless — I have a soft spot for urban exploration and abandoned places.
