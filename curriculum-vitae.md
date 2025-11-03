@@ -1,107 +1,105 @@
+# Gustavo Roganti
 
-## GUSTAVO ROGANTI
-
-👨‍💻 I am a full stack web developer, I like solving problems and building things.  
-I like tinkering with systems and learning new skills.
-
----
-##### May 2019 - present day
-**Digital Freelancer Nomad, 🌎**  
-I am coding hi-end Wordpress solutions, writing dynamic blocks for the Gutenberg editor, integrating backend APIs, and coding frontend UX interactions. I’m working remotely with my friend Julian, collaborating via GIT and  deploying on AWS via Bitbucket Pipelines.
-
-
-> TECHNOLOGIES:
-> Wordpress, Woocommerce, Gutenberg, Docker, ACF, Swagger, Postman, Bitbucket, Bash, AWS EC2
-
+**Senior Fullstack Engineer | PHP • WordPress • React**  
+Location: Remote, based near São Paulo, Brazil (UTC-3)  
+Mail: gustavo.roganti@gmail.com | Phone: +55 12 99671 9980  
+LinkedIn: [linkedin.com/in/gustavo-roganti](https://linkedin.com/in/gustavo-roganti)  
+GitHub: [github.com/gustavo-roganti](https://github.com/gustavo-roganti)
 
 ---
 
+## 👨‍💻 Professional Summary
 
-##### July  2018 - May 2019
-**Exploring South America 🇧🇷🇺🇾🇦🇷🇨🇱🇵🇾**  
-I am at the end of a sabbatical year travelling through South America, experiencing new cultures and taking tons of pictures.
+Fullstack engineer with 20+ years of experience delivering complex web projects for agencies and enterprise clients. Skilled in PHP frameworks, WordPress backends, and modern front-ends built with React, TypeScript, JavaScript, HTML, and CSS. Experienced in REST and GraphQL APIs, database design, caching strategies, and performance optimization across both legacy and modern architectures.
 
+Hands-on experience in **client-facing support**, debugging enterprise WordPress sites, troubleshooting hosting, caching, and performance issues, and collaborating directly with product owners, designers, and QA teams. Comfortable balancing development, maintenance, and operational support for high-traffic systems.
 
-> ACHIEVEMENTS:
-> 5 Countries 🌎,  4  Volcanoes 🌋, 6 Caves ⛰️, 3 Glaciers ❄️, 18600km 🚗, Many new friends 👐
-
+European citizen based in Brazil, available for remote collaboration across EU, UK, and US time zones. Fluent in English, Italian, Spanish, and Portuguese.
 
 ---
 
-#### Mar 2012 - Jul 2018
+## 🛠️ Core Skills
 
-**Extera, San Marino, 🇸🇲**  
-As a Full Stack Web Developer I build corporate websites and e-commerces, and I design, build and document APIs.  
-I analyse and wireframe the UX for a ticketing system, and I build the web app with HTML5, PHP and Javascript.
-
-
-> TECHNOLOGIES:
-> Pimcore, Symfony, Magento, Zend Framework, Yii, HTML5, JavaScript, Sketch, Photoshop
-
----
-
-#### Nov 2010 - Feb 2011
-**Groupalia, Barcelona, 🇪🇸**  
-As a Senior Web Developer in the On-Going team I analyze and resolve bugs, writing incidents and code solutions, using Zend Framework in a e-commerce platform based on Magento.
-
-
-> TECHNOLOGIES:
-> PHP, Zend Framework, Magento, JavaScript
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, CSS-in-JS, GSAP, Algolia, Radix UI, responsive design, component-based architectures.
+- **Backend:** PHP 8+, WordPress, WooCommerce, REST/GraphQL APIs, MVC/OOP, database design, custom plugins & Gutenberg/React blocks, caching/CDN optimization.
+- **DevOps & Tools:** Git/Gitflow, Docker/Lando, CI/CD pipelines (GitHub Actions, Bitbucket, Pantheon, WP Engine), Apache/Nginx, AWS (EC2/S3/CloudFront), debugging, Storybook.
+- **UX & Design:** Figma, Sketch, Photoshop; translating designs into functional components; accessibility best practices.
+- **Methodologies:** Agile/Scrum, sprint planning, iterative delivery, client collaboration.
+- **Languages:** English (Fluent) · Italian (Native) · Spanish, Portuguese (Intermediate)
 
 ---
 
-#### Nov 2009 - Oct 2010
+## 💼 Professional Experience
 
-**Studio Fabrica, Rimini, 🇮🇹**  
-As a Frontend Developer I build web pages, participating in the UX and UI design. I design and build Js animations and games, and I research new technological trends as Google Maplets.
+### Senior Fullstack Engineer / Third and Grove
+**2022 – Present | Remote (US Client)**
+- Maintained and improved enterprise WordPress sites, delivering full headless WordPress launches with reusable React/TypeScript components.
+- Optimized GraphQL queries, caching, and performance for high-traffic systems.
+- Integrated frontend/backend components including Algolia search, CRM lead tracking, and Cloudflare caching.
 
-
-> TECHNOLOGIES:
-> WordPress, PHP, MySQL, HTML, JavaScript, RaphaelJS, Google Maps API, Photoshop
-
----
-
-#### Jul 2008 - Nov 2009
-**KD Web, London, 🇬🇧**  
-As a Full Stack Web Developer I build custom websites, improving usability and interfaces using JavaScript and PHP.  I build complex web apps, like ticketing systems, using PHP frameworks.
-
-> TECHNOLOGIES:
-> PHP, HTML, MySQL, CakePHP, WordPress
+**Technologies:** PHP, WordPress, React, Next.js, GraphQL, MySQL, Tailwind CSS, JavaScript, TypeScript, Docker, Pantheon, WP Engine, ACF, WPML, Polylang, Algolia.
 
 ---
 
-#### Feb 2008 - May 2008
-**Complejo Creativo, Seville, 🇪🇸**  
-In a Web Developer internship I cure the SEO of a newspaper, I analyse CMS systems and help with JavaScript security problems.
+### Senior Fullstack Engineer / Wildish & Co, Chaptr, and other agencies
+**2019 – 2022 | Remote (UK Clients)**
+- Developed high-end WordPress solutions, custom themes/plugins, Gutenberg blocks, and complex UX features.
+- Integrated external APIs and platforms such as Elasticsearch, Zapier, and ticketing/e-commerce systems.
 
-> TECHNOLOGIES:
-> PHP, JavaScript, XSS, SQL
-
----
-
-#### Jul 2006 - Feb 2008
-**Extera, San Marino, 🇸🇲**  
-As a Web Developer I build custom websites in PHP, JavaScript and CSS, I help build and manage an E-commerce, and rewrite a large ASP travel booking website in PHP. I also  help maintain .htaccess Apache files, BbPress plug-ins and X-Cart plug-ins.
-
-> TECHNOLOGIES:
-> PHP, JavaScript, ASP, HTML, Apache, Mysql, PHPMaker, SOAP
+**Technologies:** PHP, WordPress, React, WooCommerce, Gutenberg, ACF, Timber/Twig, JavaScript, TypeScript, Tailwind CSS, Webpack, Docker Compose, Git, AWS EC2.
 
 ---
 
-#### Oct 2005 - Mar 2006
+### Senior Fullstack Engineer / Extera
+**2012 – 2018 | San Marino**
+- Built corporate websites and e-commerce platforms using WordPress, Magento, and PimCore.
+- Designed, implemented, and documented REST APIs for booking/ticketing systems.
 
-**Aphelion, Rimini, 🇮🇹**  
-As web developer I build a web based database app, with user policies, API and backups. I also build websites, from graphic to CMS templates, optimizing for cross-browser compatibility.
-
-> TECHNOLOGIES:
-> PHP, MySQL, JavaScript, CSS, Photoshop
+**Technologies:** PHP, WordPress, Magento, PimCore, Symfony, Zend Framework, Yii, JavaScript, HTML/CSS, MySQL, ACF, Timber/Twig.
 
 ---
 
-#### Mar 2001 - Jul 2005
-**Karnak, San Marino, 🇸🇲**  
-As a developer in the IT Department I build a series of internal web tools and analytics apps, with ACL Policies, mailing systems, reports and more. I also build and maintain automated data synchronization tools between COBOL archives and Oracle databases. I write in Visual Basic a client-server app for agents.
+### Senior Web Developer / Groupalia
+**2010 – 2011 | Barcelona, Spain**
+- Ongoing maintenance, bug fixing, and optimization for a fast-growing startup on Zend Framework and Magento.
 
+**Technologies:** PHP, Zend Framework, Magento, MySQL, JavaScript.
 
-> TECHNOLOGIES:
-> PHP, JavaScript, CSS, Oracle DB, MySQL, Bash, Crystal Reports, Visual Basic
+---
+
+### Full Stack Web Developer / Studio Fabrica
+**2009 – 2010 | Rimini, Italy**
+- Built WordPress sites, SPA features, and interactive JS components for fashion clients and events.
+
+**Technologies:** PHP, WordPress, MySQL, JavaScript, HTML/CSS, RaphaelJS, Google Maps API, Photoshop.
+
+---
+
+### Full Stack Web Developer / KD Web
+**2008 – 2009 | London, UK**
+- Custom websites and complex booking/ticketing systems for enterprise clients.
+
+**Technologies:** PHP, WordPress, MySQL, HTML/CSS, JavaScript, CakePHP.
+
+---
+
+### Various roles / Italy, Spain, UK, remote
+**1999 – 2008**
+- Multiple full-stack roles delivering PHP, WordPress, and JS solutions for agencies and startups, including corporate websites, e-commerce, and booking platforms.
+
+---
+
+## 🎓 Education
+
+**1994 – 1999 | Rimini, Italy**  
+Istituto Tecnico Industriale “Blaise Pascal” – Informatics Specialization  
+Diploma di Maturità Tecnica Industriale (Computer Science equivalent)
+
+---
+
+## ℹ️ Additional Information
+
+- European citizen currently based in Brazil.
+- Operate as an independent contractor through a registered Brazilian company, enabling compliant international contracting and taxation.
+- Available for full remote collaboration across EU, UK, and US time zones.
+- Open to relocation or establishing a local entity if required by project or contract structure.
